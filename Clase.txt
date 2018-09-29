@@ -11,12 +11,3 @@ Git Hub es el producto
 cta	  exe
 GitHub + Git
 ------  ------
-1 Crear cta en GitHub
-2 Verificar cuenta
-3 Instalar Git for Windows
--------------
-URL DEL ONE DRIVE PARA VER LOS ARCHIVOS COMPARTIDOS DEL PROFE:
---------------------------------------------------------------
-https://tinyurl.com/ycpapoul
-
-
