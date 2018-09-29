@@ -1,9 +1,4 @@
 OJO:
-Crear una cuenta de hithub
-username: sarith333
-email: sarith333@hotmail.com
-psw: maribel333666
--------------------
 Entrar a la pagina de Git y descargar el instalador de windows
 Instlarlo en ruta F
 
